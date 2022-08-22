@@ -10,9 +10,9 @@ R1and2-contains the data for fathers and sons for replicates 1 and 2 by Claudia 
 
 R4-contains the data for fathers and sons in replicate 4 
 
-SD125-contains the mating proportional scores of thai males from the simulated with 12.5% chance and experimental data 
+SD125-contains the mating proportional scores of Thai males from the simulated with 12.5% chance and experimental data 
 
-SD25-contains the mating proportional scores of thai males from the simulated with 25% random chance and experimental data 
+SD25-contains the mating proportional scores of Thai males from the simulated with 25% random chance and experimental data 
 
 MannWhitney_PF- contains the structured mating scores in proportions of fathers and sons in the experimental data used for the Mann-Whitney test
 

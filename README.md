@@ -24,6 +24,7 @@ For the GLMM's- Douglas Bates, Martin Maechler, Ben Bolker, Steve Walker (2015).
   Mixed-Effects Models Using lme4. Journal of Statistical Software, 67(1), 1-48.
   doi:10.18637/jss.v067.i01.  
   
-  For the Mann-Whitney Tests- the " stats" package from built in  R Core Team (2022). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. Available at: https://www.R-project.org/.  
+  For the Mann-Whitney Tests and Kolmogorov Smirnov tests- the " stats" package from built in  R Core Team (2022). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. Available at: https://www.R-project.org/.  
   
+  In the data files sons are designated as F, while fathers are designated as P
   

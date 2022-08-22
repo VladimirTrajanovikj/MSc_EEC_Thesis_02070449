@@ -1,0 +1,47 @@
+Cage_ID 	Nofemales 	female_1		female_2		female_3		female_4		female_5		female_6		female_7		female_8		P1_scores	P1_proportions	replicate	P1_status	F1_scores	F1_proportions	replicate	F1_status	F1_Females
+		mated	glowing	mated	glowing	mated	glowing	mated	glowing	mated	glowing	mated	glowing	mated	glowing	mated	glowing									
+1	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	0	0	3	unmated			3	NA	
+2	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	0	0	3	unmated			3	NA	
+3	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NI	NI	0	0	3	unmated	0	0	3	unmated	8
+4	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NO	1	0.125	3	mated	3	0.375	3	mated	8
+5	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NO	1	0.125	3	mated	3	0.375	3	mated	8
+6	6	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NO	/	/	/	/	1	0.166666667	3	mated	2	0.25	3	mated	8
+7	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	0	0	3	unmated	2	0.333333333	3	mated	8
+8	7	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	/	/	0	0	3	unmated			3	NA	
+9	6	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	/	/	/	/	0	0	3	unmated			3	NA	
+10	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NO	1	0.125	3	mated	1	0.166666667	3	mated	8
+11	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NI	NI	0	0	3	unmated	1	0.125	3	mated	8
+12	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NI	NI	0	0	3	unmated	2	0.25	3	mated	8
+13	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NO	1	0.125	3	mated	0	0	3	unmated	8
+14	6	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	/	/	/	/	0	0	3	unmated	1	0.125	3	mated	8
+15	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	0	0	3	unmated			3	NA	
+16	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NO	1	0.125	3	mated	1	0.125	3	mated	8
+17	X	X	X	X	X	X	X	X	X	X	X	X	X	X	X	X	X	X		3	NA			3	NA	
+18	5	Y	Y	Y	Y	Y	Y	Y	Y	Y	NO	/	/	/	/	/	/	1	0.2	3	mated			3	mated	8
+19	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	0	0	3	unmated	2	0.4	3	mated	
+20	X	X	X	X	X	X	X	X	X	X	X	X	X	X	X	X	X	X		3	NA			3	NA	
+21	6	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	/	/	/	/	0	0	3	unmated			3	NA	
+22	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NO	Y	NO	2	0.25	3	mated	3	0.5	3	mated	8
+23	7	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NO	/	/	1	0.142857143	3	mated			3	NA	
+24	7	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NO	/	/	1	0.142857143	3	mated			3	NA	
+25	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	1	0.125	3	mated	1	0.142857143	3	mated	8
+26	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	1	0.125	3	mated	3	0.375	3	mated	8
+27	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NO	Y	NO	2	0.25	3	mated	4	0.5	3	mated	8
+28	7	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NO	NI	NI	/	/	1	0.142857143	3	mated	3	0.375	3	mated	8
+29	6	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	/	/	/	/	0	0	3	unmated	1	0.142857143	3	mated	8
+30	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NO	0	0	3	unmated			3	NA	
+31	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NO	NI	NI	1	0.125	3	mated	3	0.375	3	mated	8
+32	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NO	Y	NO	2	0.25	3	mated	3	0.375	3	mated	8
+33	7	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	/	/	0	0	3	unmated		0	3	unmated	
+34	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NO	Y	NO	2	0.25	3	mated	1	0.142857143	3	mated	8
+35	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NO	1	0.125	3	mated			3	NA	
+36	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NO	Y	NO	Y	NO	3	0.375	3	mated	0	0	3	unmated	8
+37	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	0	0	3	unmated	3	0.375	3	mated	7
+38	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	0	0	3	unmated	2	0.25	3	mated	8
+39	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NO	Y	NO	2	0.25	3	mated	1	0.125	3	mated	8
+40	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	0	0	3	unmated	2	0.25	3	mated	8
+41	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NI	NI	0	0	3	unmated			3	NA	
+42	8	Y	NO	Y	NO	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	2	0.25	3	mated	0	0	3	unmated	7
+43	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	0	0	3	unmated	4	0.5	3	mated	8
+44	7	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NO	/	/	1	0.142857143	3	mated	2	0.25	3	mated	7
+45	7	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	NO	/	/	1	0.142857143	3	mated	2	0.285714286	3	mated	8

@@ -1,0 +1,26 @@
+Cage_ID 	 P_Females 	P1_scores	P1_proportions	P1_status	replicate	F_Females	F1_scores	F1_proportions	F1_status
+									
+1	8	0	0	unmated	4	NA	NA	NA	NA
+2	8	4	0.5	mated	4	8	1	0.125	mated
+3	8	1	0.125	mated	4	8	3	0.375	mated
+4	8	4	0.5	mated	4	8	1	0.125	mated
+5	8	0	0	unmated	4	8	1	0.125	mated
+6	8	1	0.125	mated	4	8	2	0.25	mated
+7	8	0	0	unmated	4	NA	NA	NA	NA
+8	8	1	0.125	mated	4	8	0	0	unmated
+9	8	1	0.125	mated	4	NA	NA	NA	NA
+10	8	1	0.125	mated	4	8	0	0	unmated
+11	8	0	0	unmated	4	NA	NA	 NA	NA
+12	8	1	0.125	mated	4	8	2	0.25	mated
+13	8	1	0.125	mated	4	8	2	0.25	mated
+14	8	0	0	unmated	4	8	1	0.125	mated
+15	8	0	0	unmated	4	8	2	0.25	mated
+16	8	2	0.25	mated	4	8	0	0	unmated
+17	7	1	0.142857143	mated	4	NA	NA	NA	NA
+18	8	0	0	unmated	4	8	0	0	unmated
+19	8	2	0.25	mated	4	NA	NA	NA	NA
+20	8	2	0.25	mated	4	8	1	0.125	mated
+21	4	0	0	unmated	4	8	0	0	unmated
+22	4	0	0	unmated	4	8	1	0.125	mated
+24	4	1	0.25	mated	4	NA	NA	NA	NA
+25	4	0	0	unmated	4	8	1	0.125	mated
